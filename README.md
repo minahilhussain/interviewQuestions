@@ -41,9 +41,9 @@ You can **open an issue** or **create a pull request**, or simply suggest an edi
 
 **JavaScript Interview Questions**, 
 **Full Stack JavaScript Interview Prep**, 
-**React.js Questions**,
-**Node.js Questions**, 
-**Express.js Interview Questions**, 
+**React js Interview Questions**,
+**Node js Interview Questions**, 
+**Express js Interview Questions**, 
 **Frontend Interview Questions**,
 **Backend Interview Questions**, 
 **MERN Stack Interview Questions**, 
